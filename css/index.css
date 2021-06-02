@@ -1,8 +1,13 @@
-body{
-    background-color: rgb(240, 223, 188);
+body {
+  background-color: rgb(240, 223, 188);
 }
-.img{
-    width: 50px;
-    padding: 4px;
-    margin: 8px;
+
+.img {
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+}
+
+.icon {
+  cursor: pointer;
 }
