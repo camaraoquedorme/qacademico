@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(240, 223, 188);
+  background-color: rgb(247, 238, 221);
 }
 
 .img {
@@ -10,4 +10,42 @@ body {
 
 .icon {
   cursor: pointer;
+}
+
+/*Essa cor manual pertence a primeira DIV do index principal*/
+.corManual{
+  background-color: rgb(250, 242, 226);
+}
+
+/*Essa cor manual 2 pertence a segunda DIV do index principal*/
+.corManual2{
+  background-color: rgb(230, 191, 114);
+}
+
+/*Esse tamanho manual pertence aos icones da index principal*/
+.img-icones{
+  width: 40px;
+  height: 40px;
+}
+
+.lista-borda{
+  border-bottom: 1px solid rgb(131, 130, 130);
+}
+
+/*Formatações percente a lista de links da index principal*/
+ul li {
+  padding: 8px;
+}
+ul li:hover{
+  background-color: rgb(233, 204, 151);
+}
+ul li a:link{
+  text-decoration: none;
+}
+ul li a{
+  color: rgb(92, 92, 92);
+  font-weight: bold;
+}
+ul li a:hover{
+  color:white;
 }
