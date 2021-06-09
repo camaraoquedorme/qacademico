@@ -1,0 +1,64 @@
+{
+  "icons": [
+    {
+      "name": "messagens.png",
+      "message": "Todas as mensagens enviadas a você centralizadas num único local de fácil acesso."
+    },
+    {
+      "name": "questionario.png",
+      "message": "Responda a questionários diversos disponibilizados por sua instituição aonde quer que você esteja."
+    },
+    {
+      "name": "matricula.jpg",
+      "message": "Faça sua matrícula com facilidade escolhendo sua preferência de turmas onde gostaria de estudar neste período letivo."
+    },
+    {
+      "name": "duvidas.png",
+      "message": "Tire todas as suas dúvidas enviando-as a seu professor ou consultando dúvidas já respondidas."
+    },
+    {
+      "name": "cadeado.png",
+      "message": "Altere sua senha com frequência para reforçar ainda mais a segurança das suas informações."
+    },
+    {
+      "name": "refrash.png",
+      "message": "Há erros em seu cadastro? Alguns dados mudaram, como seu telefone ou endereço? Envie uma solicitação de alteração."
+    },
+    {
+      "name": "notas.png",
+      "message": "Consulte todas suas notas e faltas em qualquer lugar, a qualquer momento."
+    },
+    {
+      "name": "boletim.png",
+      "message": "Seu histórico escolar disponível para conferência."
+    },
+    {
+      "name": "prova.png",
+      "message": "Datas de provas, trabalhos e exercícios de cada disciplina."
+    },
+    {
+      "name": "horario.png",
+      "message": "Confira o horório de suas aulas no período."
+    },
+    {
+      "name": "calendario.png",
+      "message": "Todas as datas do que acontece na sua instituição, no seu curso e na sua turma estão disponíveis para visualização em um único calendário."
+    },
+    {
+      "name": "matriz.png",
+      "message": "Conheça todos os componentes curriculares da matriz curricular de seu curso."
+    },
+    {
+      "name": "biblioteca.png",
+      "message": "Consulte o acervo, façaa uma reserva... A biblioteca da instituição está a sua disposição."
+    },
+    {
+      "name": "estagio.png",
+      "message": "Verifique se há ofertas de estágios para o seu curso."
+    },
+    {
+      "name": "materiais.png",
+      "message": "Acesse os materiais disponibilizados por seus professores para download."
+    }
+  ]
+}
